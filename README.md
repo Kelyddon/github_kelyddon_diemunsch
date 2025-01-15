@@ -6,7 +6,16 @@ pour déplacer l'origine du texte
 kelyddondiemunsch@ip-172-31-20-231:~/sites/github/github_kelyddon_diemunsch/tp-bachelor$ git add .  
 kelyddondiemunsch@ip-172-31-20-231:~/sites/github/github_kelyddon_diemunsch/tp-bachelor$ git push origin main
 kelyddondiemunsch@ip-172-31-20-231:~/sites/github/github_kelyddon_diemunsch/tp-bachelor$ git status
-problème pour transporter les docs local en docs distant
+problème pour transporter les docs local en docs distant:
+To https://github.com/Kelyddon/github_kelyddon_diemunsch.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Kelyddon/github_kelyddon_diemunsch.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
 code entier:
 
 kelyddondiemunsch@ip-172-31-20-231:~$ cd sites/github/github_kelyddon_diemunsch
